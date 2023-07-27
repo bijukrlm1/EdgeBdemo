@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeBdemo
+  gitServerName: btest
+  gitUrl: https://github.com/bijukrlm1/EdgeBdemo
+  gitUsername: bijukrlm1
+  gitToken: edge.scaffolding.EdgeBdemo.btest.gitToken
+  gitBranch: main
